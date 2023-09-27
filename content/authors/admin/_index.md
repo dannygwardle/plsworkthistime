@@ -2,10 +2,7 @@
 title: Danny Wardle
 role: PhD Candidate
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +18,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://g
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -29,8 +26,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Australian Catholic University
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
