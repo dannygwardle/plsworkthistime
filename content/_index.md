@@ -28,8 +28,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Melbourne
-          date_start: '2021'
-          date_end: '2023'
+          date_start: '2021-06-01'
+          date_end: '2023-12-12'
           description: |2-
               Responsibilities include:
 
