@@ -28,15 +28,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Doctor of Philosophy
-      institution: Australian Catholic University
-      year: ""
     - course: Master of Philosophy
       institution: University of Adelaide
-      year: ""
+      year: 2021
     - course: Bachelor of Arts (Advanced)
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Adelaide
+      year: 2018
 superuser: true
 status:
   icon: ☕️
