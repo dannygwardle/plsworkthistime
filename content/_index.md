@@ -26,7 +26,7 @@ sections:
         - title: Sessional Tutor
           company: Australian Catholic University
           company_url: ''
-          company_logo: org-gc
+          company_logo: acu
           location: Melbourne
           date_start: '2021-06-01'
           date_end: '2023-12-12'
@@ -36,11 +36,11 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Sessional Tutor
+          company: University of Adelaide
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo: uofa
+          location: Adelaide
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
