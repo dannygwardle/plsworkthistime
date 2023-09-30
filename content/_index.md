@@ -26,7 +26,7 @@ sections:
         - title: Sessional Tutor
           company: Australian Catholic University
           company_url: ''
-          company_logo: acu.png
+          company_logo: acu
           location: Melbourne
           date_start: '2021-06-01'
           date_end: '2023-12-12'
