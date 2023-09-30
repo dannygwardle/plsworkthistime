@@ -1,6 +1,7 @@
 ---
 title: Danny Wardle
 role: PhD Candidate
+avatar_filename: profile.png
 bio: ""
 interests: []
 social:
@@ -9,19 +10,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/maximalworm
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://g
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/danny-wardle
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/danny-wardle-7a439616a/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -30,13 +28,13 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: Doctor of Philosophy
+      institution: Australian Catholic University
+      year: ""
+    - course: Master of Philosophy
+      institution: University of Adelaide
+      year: ""
+    - course: Bachelor of Arts (Advanced)
       institution: Massachusetts Institute of Technology
       year: 2008
 superuser: true
