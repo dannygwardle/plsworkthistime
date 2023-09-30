@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Experience
+      title: Teaching
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -23,13 +23,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Sessional Tutor
+          company: Australian Catholic University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Melbourne
+          date_start: '2021'
+          date_end: '2023'
           description: |2-
               Responsibilities include:
 
