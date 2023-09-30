@@ -1,7 +1,7 @@
 ---
 title: Danny Wardle
 role: PhD Candidate
-avatar_filename: profile.png
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
